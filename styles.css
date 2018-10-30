@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Poor Story', cursive;
+    font-size: 24px;
+    border: 8px solid black;
+}
+
+
+.title {
+    color: red;
+    text-decoration: underline
+
+}
+
+.author {
+    color: green;
+    text-decoration: underline;
+}
+
+.ups {
+    color: orange;
+}
+.a {
+    color: purple;
+    display: flex;
+    text-align: center
+
+}
+.img {
+    border: 8px solid slateblue;
+}
